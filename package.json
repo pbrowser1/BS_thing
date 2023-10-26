@@ -1,0 +1,15 @@
+{
+  "name": "BS-thing",
+  "version": "1.2.3",
+  "description": "cool thing",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["berry"],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^1.2.3"
+  }
+}
